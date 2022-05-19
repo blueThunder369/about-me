@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @coding-god0
-- 👀 I’m interested in coding, 3d printing
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me idk
+- 👋 Hi, I’m luke
+- 👀 I’m interested in coding, 3d printing, and designing 
+- 🌱 I’m currently learning html/css/java script
+- 💞️ I’m looking not looking to collaborate on anything yet
+- 📫 Reach me at lukeod2008@gmail.com
 
 
